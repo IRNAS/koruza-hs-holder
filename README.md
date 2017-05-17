@@ -1,3 +1,6 @@
+![alt tag](https://github.com/IRNAS/koruza-hs-holder/blob/master/Pics/koruza-logo-colour-med.png)
+
+
 # koruza-hs-holder
 
 Koruza SFP laser holder
