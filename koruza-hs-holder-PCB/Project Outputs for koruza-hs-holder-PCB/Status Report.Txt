@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [koruza-hs-holder-PCB.PcbDoc]
+   Generated File[koruza-hs-holder-PCB.TXT]
+   Generated File[koruza-hs-holder-PCB.DRL]
+   Generated File[koruza-hs-holder-PCB.LDP]
+   Generated File[koruza-hs-holder-PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:15:32 PM On 05/04/2017

@@ -5,6 +5,7 @@
 
 Koruza SFP laser holder
 
+![alt tag](https://github.com/IRNAS/koruza-hs-holder/blob/board_v0.1/Pics/3D_model.png)
 
 ---
 

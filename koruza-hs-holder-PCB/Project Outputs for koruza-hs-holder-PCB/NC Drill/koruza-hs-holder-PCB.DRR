@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: koruza-hs-holder-PCB.PcbDoc   05/04/2017  1:15:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : koruza-hs-holder-PCB.TXT
+EIA File   : koruza-hs-holder-PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.9mm)                                             Round             4         PTH        0.89inch (22.54mm)
+T2      61mil (1.55mm)                                            Round             2         PTH        0.38inch (9.63mm)
+T3      126mil (3.2mm)                                            Round             3         NPTH       1.22inch (30.87mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              9
+
+Total Processing Time (hh:mm:ss) : 00:00:00
